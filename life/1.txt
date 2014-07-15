@@ -1,3 +1,7 @@
 New Changes in 1.txtnew line
 new line
 ololol
+echo 'new line\n' >> life/1.txtnew line\n
+echo 'new line' >> life/1.txtnew line
+new line
+absolutely new line
