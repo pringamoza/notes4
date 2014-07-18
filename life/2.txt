@@ -1,1 +1,15 @@
-Jesus Christ
+cd 
+cd dev/nkp_project/git/notes/notes
+
+git clone https://github.com/pringamoza/notes
+git remote add notes https://github.com/pringamoza/notes
+
+git fetch origin
+
+
+
+git push https://github.com/pringamoza/notes4
+git push https://github.com/pringamoza/notes4 origin master
+
+git remote add origin https://github.com/pringamoza/notes4.git
+git push -u origin master
